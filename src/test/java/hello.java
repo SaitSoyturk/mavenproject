@@ -4,6 +4,7 @@ public class hello {
 
         System.out.println("hello");
         System.out.println("developing hello feature");
+        System.out.println("local repo is alread published to remote");
 
     }
 }
